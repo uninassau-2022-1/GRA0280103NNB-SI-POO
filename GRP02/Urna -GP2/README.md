@@ -12,5 +12,5 @@ Luiz Nelson da Silva Neto....................01421013 - luiznelson140@gmail.com
 
 Pedro Paulo campos da Silva..................01414565 - pedro_caampos@hotmail.com
 
-Rhuan Filipe Cavalcanti Trajano..............01487339 - 
+Rhuan Filipe Cavalcanti Trajano..............01487339 - rfilipetrajano@gmail.com
 
