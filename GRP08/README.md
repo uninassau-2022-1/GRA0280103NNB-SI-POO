@@ -2,6 +2,8 @@
 
 Fazem parte do desenvolvimento deste projeto os membros:
 
-* Nome Sobrenome - <email@dominio.com>
-* Nome Sobrenome - <email@dominio.com>
-* Nome Sobrenome - <email@dominio.com>
+* André - <email@dominio.com>
+* Isabella - <email@dominio.com>
+* Josef Reisenbauer - <email@dominio.com>
+* Marcos - <>
+* Maria Micaelle - <micaelle.aguiar21@gmail.com>
