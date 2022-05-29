@@ -2,6 +2,6 @@
 
 Fazem parte do desenvolvimento deste projeto os membros:
 
-* Nome Sobrenome - <email@dominio.com>
-* Nome Sobrenome - <email@dominio.com>
-* Nome Sobrenome - <email@dominio.com>
+* Rafael Alheiros - <rafael_caa@hotmail.com>
+* João Victtor Limoeiro - <victtorlimoeiro@hotmail.com>
+
