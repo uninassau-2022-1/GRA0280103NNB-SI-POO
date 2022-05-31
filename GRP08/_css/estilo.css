@@ -1,0 +1,139 @@
+@charset "UTF-8";
+
+	@font-face {
+	Font-Family: 'Letra';
+	src: url(".._fonts/_Koulen-Regular.ttf");
+	}
+
+
+.container{
+  text-align: center;
+  background-color: #e1e1e1;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+img{
+  right: 0;
+  position: absolute;
+  height: 150px;
+  width: 105px;
+  border: solid 1px black;
+}
+.cinzaEscuro{
+  top: 50%;
+  margin-top: -200px;
+  width: 250px;
+  height: 60px;
+  right: 20px;
+  position: absolute;
+}
+b{
+  position: relative;
+  top: 10px;
+}
+.preto{
+  border: solid 2px;
+  top: 50%;
+  margin-top: -135px;
+  position: absolute;
+  background-color: #444;
+  height: 300px;
+  width: 250px;
+  right: 20px;
+}
+
+.cinzaClaro{
+  position: absolute;
+  border: solid 1px;
+  left: 50%;
+  margin-left: -370px;
+  top: 50%;
+  margin-top: -190px;
+  position: absolute;
+  height: 350px;
+  width: 500px;
+  background-color: snow;
+}
+
+.boneco {
+  width: 128px;
+  height: 128px;
+  padding: 0;
+  
+}
+
+.cinzaEscuro{
+  background-color: #b6b5b5;
+  
+}
+
+.bnt{
+  margin: 10px;
+  background-color: black;
+  color: snow;
+  border: none;
+  font-size: 14px;
+  border-radius: 5px;
+  height: 30px;
+  width: 50px;
+}
+.result {
+  color: #111;
+  text-decoration: none;
+  text-transform: none;
+}
+
+.text {
+  padding: 8px;
+  border: none;
+  color: #222;
+  font-size: 20px;
+  text-align: center;
+}
+
+p {
+  font-size: 26px;
+  color: #111;
+  
+}
+
+.teclado2{
+  font-size: 11px;
+  position: absolute;
+  bottom: 20px;
+  left: 5px;
+  color: black;
+}
+
+.junto {
+width: 90%;
+margin-left: 5%;
+margin-right: 5%;
+padding-left: 10%;
+padding-right: 10%;
+}
+
+.branco{
+  height: 40px;
+  width: 75px;
+  background-color: #fff;
+  font-family: Letra;
+  font-size: 14px;
+}
+
+
+.laranja{
+  height: 40px;
+  width: 75px;
+  background-color: #E67401;
+  font-family: Letra;
+  font-size: 14px;
+}
+.verde{
+  height: 50px;
+  width: 85px;
+  background-color: green;
+  font-family: Letra;
+  font-size: 14px;
+}
